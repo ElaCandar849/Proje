@@ -1,1 +1,1 @@
-deneme 123
+Bu proje film ve dizi önerileri sunan bir dicord botudur.
